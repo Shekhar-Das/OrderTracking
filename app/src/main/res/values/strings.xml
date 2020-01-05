@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OrderTracking</string>
+    <string name="order_tracking">Order Tracking </string>
+    <string name="order_cancel">Cancel</string>
+    <string name="estimated_time">ESTIMATED TIME</string>
+    <string name="time">30 minutes </string>
+    <string name="order_number">ORDER NUMBER</string>
+    <string name="oder_invoice_number">#6454122</string>
+    <string name="order_place">Order Placed</string>
+    <string name="order_place_info">We have received your order</string>
+    <string name="order_comf">Order Conformation</string>
+    <string name="order_comf_message">Your Order has been Confirm</string>
+    <string name="order_processed">Order Processed</string>
+    <string name="order_pro_message">We are preparing your order</string>
+    <string name="ready_to_delaviry">Ready to Pickup</string>
+
+</resources>
